@@ -1,0 +1,8 @@
+Everything above line87 is working as intended.
+Expected output is coming. Check screenshot.png
+line 105 to 126 are functions to check file/folder
+
+Error:
+
+line 87 to line 103  ; loop to check if installation file exists.
+
