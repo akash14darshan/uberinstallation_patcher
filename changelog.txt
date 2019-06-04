@@ -1,0 +1,6 @@
+Everything works as intended.
+
+Todo:
+-Clean up source code
+-Implement the ability to copy the files to required directory automatically.
+
