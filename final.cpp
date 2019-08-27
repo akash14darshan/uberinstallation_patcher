@@ -100,6 +100,8 @@ int main()
     system("taskkill /IM ubereyeengine.exe /F");
     system("taskkill /IM uberdaemon.exe /F");
     system(("xcopy patchfiles\\Uberstrike "+final_location+" /s/h/e/k/f/c/y").c_str());
+    system(("del final_location"+"Managed\\level12").c_str());
+    system(("del final_location"+"Managed\\level13").c_str());
     system("del steampath.txt");
     system("del patchfiles.zip");
     system("cls");
