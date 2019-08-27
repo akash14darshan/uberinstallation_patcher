@@ -8,3 +8,6 @@ chmod +x /Users/$username/Library/Application\ Support/Steam/steamapps/common/Ub
 /bin/cp patch/Data/. /Users/$username/Library/Application\ Support/Steam/steamapps/common/UberStrike/Uberstrike.app/Contents/Data
 rm macpatch.zip
 rm -rf patch
+rm /Users/$username/Library/Application\ Support/Steam/steamapps/common/UberStrike/Uberstrike.app/Contents/Data/level12
+rm /Users/$username/Library/Application\ Support/Steam/steamapps/common/UberStrike/Uberstrike.app/Contents/Data/level13
+
