@@ -107,4 +107,5 @@ int main()
     system("cls");
     cout<<"Patcher has been installed. You can run the game without patcher from now on."<<endl<<endl;
     system("pause");
+	//
 	}
