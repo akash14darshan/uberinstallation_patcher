@@ -10,4 +10,3 @@ rm macpatch.zip
 rm -rf patch
 rm -rf /Users/$username/Library/Caches/unity.Cmune.UberStrike
 rm /Users/$username/Library/Application\ Support/Steam/steamapps/common/UberStrike/Uberstrike.app/Contents/Data/level12
-rm /Users/$username/Library/Application\ Support/Steam/steamapps/common/UberStrike/Uberstrike.app/Contents/Data/level13
